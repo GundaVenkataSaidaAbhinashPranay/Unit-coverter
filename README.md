@@ -1,4 +1,3 @@
-# PPS-CT-1
 Unit Converter
 
 Program using C to convert units of :
